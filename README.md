@@ -1,5 +1,5 @@
 
- 🍔Restaurant Menu & Ordering Interface
+## 🍔Restaurant Menu & Ordering Interface
 
 
 ## Project Overview
