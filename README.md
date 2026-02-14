@@ -1,5 +1,6 @@
-# FUTURE_UIUX_01
-# UI/UX Task 1 – Restaurant Menu & Ordering Interface
+
+ 🍔Restaurant Menu & Ordering Interface
+
 
 ## Project Overview
 This project was completed as part of Task 1 of the Future Interns UI/UX Internship.
